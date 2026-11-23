@@ -104,4 +104,4 @@ El trabajo pone en práctica el desarrollo de aplicaciones Android, la comunicac
 
 ---
 
-**Proyecto académico · Programación para Dispositivos Móviles · Universidad Politécnica de Madrid**
+**Proyecto académico | Programación para Dispositivos Móviles | Universidad Politécnica de Madrid**
